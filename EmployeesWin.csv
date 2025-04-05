@@ -1,0 +1,9 @@
+﻿employee_id,name,department,salary,join_date
+1,Alice,HR,50000,10-01-2020
+2,Bob,IT,70000,15-05-2019
+3,Charlie,IT,65000,23-07-2021
+4,David,HR,60000,12-06-2018
+5,Emma,Sales,55000,19-03-2022
+6,Frank,Sales,60000,07-11-2017
+7,Grace,IT,80000,30-09-2020
+8,Henry,HR,70000,24-08-2016
