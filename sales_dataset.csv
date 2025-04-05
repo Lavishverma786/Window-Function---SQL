@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,region,sales_amount
+101,C1,2024-01-01,North,1200
+102,C2,2024-01-03,East,800
+103,C1,2024-01-05,North,1500
+104,C3,2024-01-07,South,1000
+105,C2,2024-01-08,East,1100
